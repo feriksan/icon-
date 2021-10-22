@@ -1,0 +1,23 @@
+
+di halaman awal keliatan verifikasi asset yang close dan open
+di tambah tabel list list pekerjaan di buat yang bisa upload file" progress seperti BOM dan verifikasi, (gabisa di edit)
+mitra dan tim asset cuma upload file aja
+
+Role = PTL, Mitra, Asset, Admin, Tim QC
+PTL = Liat progress mitra, neruskan data hasil survei ke tim asset, data dari asset diteruskan ke mitra
+Mitra = yang nambah orang di tim, upload data core
+Asset = Bisa akses file hasil sirvei dari mitra, bisa akses laporan yang dikirim sama mitra
+Tim QC = akses laporan
+Admin  = bisa semua, upload crm
+Kalau mau nambah mita ke admin dulu
+
+Upload attachment dan upload jadiin satu tabel aja
+
+Untuk Person:
+di register tambahin nomor telepon
+
+Untuk Admin:
+
+Untuk mitra:
+
+Bikin cara ngecek dokumen tanpa download

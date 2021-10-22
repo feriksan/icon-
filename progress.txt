@@ -1,0 +1,15 @@
+attach laporan +
+attach verifikasi +
+attach survei +
+bom survei +
+crm +
+data core
+disposisi mitra +
+icon
+laporan aktivasi +
+mitra +
+person +
+tim +
+upload bai +
+upload fot +
+user +
