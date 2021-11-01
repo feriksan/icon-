@@ -105,3 +105,52 @@ Dispose Mitra:
 ]
 ```
 
+Laporan Aktivasi:
+1. Get All Laporan Aktivasi: adress:port/attach/laporan
+2. Upload Laporan Aktivasi: adress:port/uploadLaporan
+```javascript
+{
+    "boq": "download (9).jpg",
+    "noPA": {
+        "id":59
+    },
+    "mitraByLaporan": {
+        "id": 7
+    }
+}
+```
+
+Verifikasi
+1. Get All Laporan Aktivasi: adress:port/attach/verifikasi
+2. Upload Laporan Aktivasi: adress:port/uploadVerifikasi
+```javascript
+{
+    "hasilVerifikasi": "Test Data",
+    "catatan": "BOM SURVEY COMMONWEALTH BANK CABANG MALANG Jl. Jaksa Agung Suprapto.xlsx",
+    "gdb": "batch insert.txt",
+    "noPA": {
+        "id":59
+    },
+    "mitraByVerifikasi": {
+        "id": 7
+    }
+}
+```
+
+Survei
+1. Get All Laporan Aktivasi: adress:port/attach/survei
+2. Upload Laporan Aktivasi: adress:port/uploadSurvei
+```javascript
+{
+    "dokumentasiSurvei": "download (1).jpg",
+    "formulirIjinKerja": "Test Kerja",
+    "surveiBom": "Test Survei",
+    "gdb": "xifjjdv9gw251.jpg",
+    "noPA": {
+        "id":59
+    },
+    "mitraBySurvei": {
+        "id": 7
+    }
+}
+```
