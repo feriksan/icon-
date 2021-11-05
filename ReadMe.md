@@ -8,22 +8,33 @@ Mitra
 1. Get All Mitra: adress:port/mitra
 2. Get Mitra By Id: adress:port/mitra/{id}
 3. Get Mitra By Username: adress:port/mitraByUsername/{username}
-4. Save MitraBatch: adress:port/mitra/saveBatch
+4. Save MitraBatch: adress:port/user/mitra/save
 ```javascript
     {
-        "username": "Suisei",
-        "namaMitra": "saasababababa",
-        "alamat": "aruaaru",
-        "jabatan": "aaaassasas",
+        "namaMitra": "aaa",
+        "alamat": "aaa",
+        "jabatan": "aaa",
+        "usernameByMitra": {
+            "username": "Suisei4"
+        },
         "noHP": "111111111111",
         "email": "ikhsanansyah@gmail.com",
-        "pic": "aaabb",
-        "timData": [
+        "pic": "aaa",
+        "personData": [
             {
-                "namaTim": "Arumi"
+                "noHp": "212121212",
+                "namaPerson": "person Mitra 4 1",
+                "email": "email@gmail.com"
             },
-            {
-                "namaTim": "megaton"
+                        {
+                "noHp": "212121212",
+                "namaPerson": "person Mitra 4 2",
+                "email": "email@gmail.com"
+            },
+                        {
+                "noHp": "212121212",
+                "namaPerson": "person Mitra 4 3",
+                "email": "email@gmail.com"
             }
         ]
     }
