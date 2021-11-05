@@ -39,8 +39,43 @@ Mitra
         ]
     }
 ```
+5. Add Mitra Person: adress:port/addPersonMitra/{id_mitra}
+```javascript
+[
+    {
+        "noHp": "212121212",
+        "namaPerson": "person 1",
+        "email": "email@gmail.com"
+    },
+    {
+        "noHp": "212121212",
+        "namaPerson": "person 3",
+        "email": "email3@gmail.com"
+    },
+    {
+        "noHp": "212121212",
+        "namaPerson": "person Mitra 3",
+        "email": "email@gmail.com"
+    },
+    {
+        "noHp": "212121212",
+        "namaPerson": "person Mitra 4 1",
+        "email": "email@gmail.com"
+    },
+    {
+        "noHp": "212121212",
+        "namaPerson": "person Mitra 4 2",
+        "email": "email@gmail.com"
+    },
+    {
+        "noHp": "212121212",
+        "namaPerson": "person Mitra 4 3",
+        "email": "email@gmail.com"
+    }
+]
+```
 
-5. Delete Mitra: adress:port/mitra/deleteMitra/{id}
+6. Delete Mitra: adress:port/mitra/deleteMitra/{id}
 
 Tim
 1. Get All Tim: adress:port/tim
