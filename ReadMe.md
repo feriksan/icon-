@@ -192,6 +192,14 @@ Survei
     "formulirIjinKerja": "Test Kerja",
     "surveiBom": "Test Survei",
     "gdb": "xifjjdv9gw251.jpg",
+    "surveiByFoto": [
+            {
+                "fileName": "foto4"
+            },
+            {
+                "fileName": "foto5"
+            }
+    ],
     "noPA": {
         "id":59
     },
